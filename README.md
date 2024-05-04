@@ -1,1 +1,2 @@
 # GameFiller
+Реализация игры "Filler"
